@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/FrugalCartel.API.props" />
+</Project>

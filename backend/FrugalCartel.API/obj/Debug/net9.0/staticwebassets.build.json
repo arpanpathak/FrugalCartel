@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gRCq+WisCeYZfnuBEQcLrqCc1Hzc7B2b1t0+9SqJMrs=",
+  "Source": "FrugalCartel.API",
+  "BasePath": "_content/FrugalCartel.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

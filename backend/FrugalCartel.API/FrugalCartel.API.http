@@ -1,0 +1,6 @@
+@FrugalCartel.API_HostAddress = http://localhost:5228
+
+GET {{FrugalCartel.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
