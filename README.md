@@ -138,7 +138,13 @@ Please see [`CONTRIBUTING.md`](./docs/CONTRIBUTING.md) for guidelines on code st
 
 ## 📜 License
 
-MIT © 2025 FrugalCartel Team
+FrugalCartel is licensed under the **GNU General Public License v3.0** (GPLv3).
+
+- ✅ You are free to use, modify, and distribute this code
+- 🔁 If you distribute modified versions, you must also license them under GPLv3
+- 🚫 You cannot use this in proprietary/commercial closed-source software
+
+See [LICENSE](./LICENSE) for full terms.
 
 ---
 
