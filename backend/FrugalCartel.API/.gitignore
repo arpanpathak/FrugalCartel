@@ -1,0 +1,94 @@
+## Build Folders ##
+bin/
+obj/
+
+## User-specific Files ##
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VSCode / VS for Mac ##
+.idea/
+.vscode/
+*.code-workspace
+
+## ASP.NET Secrets Folder ##
+**/secrets.json
+
+## NuGet Packages ##
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+## Dotnet Tools ##
+.tool-manifest
+*.global.json
+
+## Logs ##
+*.log
+Logs/
+
+## Coverage Results ##
+TestResults/
+*.coverage
+*.coveragexml
+coverage*.json
+lcov.info
+coverage/
+
+## Publish Outputs ##
+wwwroot/dist/
+dist/
+publish/
+out/
+
+## Entity Framework Migrations snapshot (optional) ##
+**/*ModelSnapshot.cs
+
+## Temporary Files ##
+~$*
+*.tmp
+*.bak
+*.swp
+
+## Resharper ##
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## JetBrains Rider ##
+.idea/
+
+## VS for Mac ##
+.vscode/
+.vscode-test/
+
+## Docker ##
+docker-compose.override.yml
+
+## Windows ##
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## macOS ##
+.DS_Store
+
+## Linux ##
+*~
+
+## T4 Templates ##
+*.generated.cs
+
+## Local DB ##
+*.mdf
+*.ldf
+
+## Other ##
+*.pidb
